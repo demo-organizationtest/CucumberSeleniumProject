@@ -1,0 +1,17 @@
+#bat file ignore
+Run.bat
+
+#xml file ignore
+OrangeHrmTest.xml
+
+#.settings
+.settings/
+
+#testoutput
+test-output/
+
+#feature file
+Login.feature
+
+
+
